@@ -1,3 +1,7 @@
+# What?
+
+This project was created as part of a crash course about React. It contains the fundamentals of one-page web applications, together with a mock backend connection to JSONPlaceholders.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
